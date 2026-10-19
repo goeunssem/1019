@@ -1,0 +1,6 @@
+{
+  "name": "마음 쏙! 걱정 인형 상자",
+  "description": "초등학생을 위한 따뜻한 걱정 인형 상자. 바꿀 수 있는 걱정과 바꿀 수 없는 걱정을 함께 나누고 작은 실천을 정해요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
